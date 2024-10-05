@@ -5,8 +5,7 @@ public class practica {
         System.out.print("ingrese su nombre");
         String nombre = scanner.nextLine();
         
-        System.out.print("ingrese su estatura");
-        float estatura = scanner.nextFloat();
+        
         System.out.println("hola, " + nombre + " tu edad es " + edad + " años y mides "+ estatura + " metros");
     }
 }
